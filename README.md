@@ -31,3 +31,6 @@ cargo +nightly test
 =====================================================================================================================
 
 le projet PPM contient l'usage de python avec la biblio rust
+
+
+
